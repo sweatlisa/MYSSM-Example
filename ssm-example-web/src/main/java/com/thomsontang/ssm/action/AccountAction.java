@@ -7,4 +7,7 @@ package com.thomsontang.ssm.action;
  * @since 12-8-24
  */
 public class AccountAction {
+    private String id;
+
+    private String name;
 }
